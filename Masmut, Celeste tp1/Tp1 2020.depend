@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1595554870 source:c:\users\celeste\documents\prog y lab 2\tp1 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

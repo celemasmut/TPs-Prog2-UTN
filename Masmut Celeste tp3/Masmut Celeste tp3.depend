@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598917240 source:c:\users\celeste\documents\prog y lab 2\masmut celeste tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"Recursion.h"
+
+1598913862 c:\users\celeste\documents\prog y lab 2\masmut celeste tp3\recursion.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<strings.h>
+

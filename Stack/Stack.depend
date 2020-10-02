@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598842885 source:c:\users\celeste\documents\prog y lab 2\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1598842716 c:\users\celeste\documents\prog y lab 2\stack\stack.h
+
+1598842697 source:c:\users\celeste\documents\prog y lab 2\stack\stack.c
+	"Stack.h"
+

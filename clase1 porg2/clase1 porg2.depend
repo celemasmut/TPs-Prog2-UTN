@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1601051251 source:c:\users\celeste\documents\prog y lab 2\clase1 porg2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Empleado.h"
+
+1597465536 c:\users\celeste\documents\prog y lab 2\clase1 porg2\empleado.h
+	<stdio.h>
+	<stdlib.h>
+
+1601049100 source:c:\users\celeste\documents\prog y lab 2\clase1 porg2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Empleado.h"
+
